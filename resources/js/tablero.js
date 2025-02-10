@@ -182,7 +182,7 @@ document.getElementById('enviarIntento').addEventListener('click', () => {
         })
         .catch(error => {
             console.error('Error al enviar la jugada:', error);
-            alert('Hubo un error al enviar la jugada. Inténtalo de nuevo.');
+            // alert('Hubo un error al enviar la jugada. Inténtalo de nuevo.');
         })
         .finally(() => {
             boton.disabled = false;
