@@ -57,6 +57,7 @@ wsl
 > ```
 >
 > -   Si tienes un alias para `sail`, úsalo en lugar del comando completo.
+> -   De el `.ENV` modificar el usuario y contraseña si se desea
 
 ### Levantar el servidor de front:
 
